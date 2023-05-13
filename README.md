@@ -2,7 +2,7 @@
 
 ## ÍNDICE
 
-* [1. Intro](https://github.com/nancynsalazar/clondegoogle/edit/main/README.md#1-intro)
+* [1. Intro](#)
 * [2. Qué construí](#)
 * [3. Objetivo del proyecto](#)
 
